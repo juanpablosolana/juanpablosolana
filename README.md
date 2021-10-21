@@ -1,7 +1,10 @@
 ### Hi there 👋
+![homers_website](http://www.homerswebpage.com/flash/campana_60px1.gif)
+![homers_website](http://www.homerswebpage.com/flash/boca_90px1.gif)
 ![homers_website](http://www.homerswebpage.com/images/jebusDance.gif)
+![homers_website](http://www.homerswebpage.com/flash/tostadora_100px1.gif)
+![homers_website](http://www.homerswebpage.com/flash/gusano_60px1.gif)
 
-<!--
 **juanpablosolana/juanpablosolana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
