@@ -1,4 +1,6 @@
 ### Hi there 👋
+![homers_website](http://www.homerswebpage.com/images/jebusDance.gif)
+Format: ![Alt Text](url)
 
 <!--
 **juanpablosolana/juanpablosolana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
