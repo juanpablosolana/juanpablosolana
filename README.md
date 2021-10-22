@@ -1,19 +1,13 @@
 ### Hi there 👋
-![homers_website](http://www.homerswebpage.com/flash/campana_60px1.gif)
-![homers_website](http://www.homerswebpage.com/flash/boca_90px1.gif)
-![homers_website](http://www.homerswebpage.com/images/jebusDance.gif)
-![homers_website](http://www.homerswebpage.com/flash/tostadora_100px1.gif)
-![homers_website](http://www.homerswebpage.com/flash/gusano_60px1.gif)
 
-**juanpablosolana/juanpablosolana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align='center'>
+  <img src="http://www.homerswebpage.com/flash/campana_60px1.gif"/>
+  <img src="http://www.homerswebpage.com/flash/boca_90px1.gif"/>
+  <img src="http://www.homerswebpage.com/images/jebusDance.gif"/>
+  <img src="http://www.homerswebpage.com/flash/tostadora_100px1.gif"/>
+  <img src="http://www.homerswebpage.com/flash/gusano_60px1.gif"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
+![JuanPablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpablosolana&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=juanpablosolana)](https://github.com/anuraghazra/github-readme-stats"/>
