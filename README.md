@@ -10,4 +10,4 @@
 </p>
 
 ![JuanPablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpablosolana&show_icons=true&theme=radical)
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=juanpablosolana)](https://github.com/anuraghazra/github-readme-stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=juanpablosolana)](https://github.com/juanpablosolana/github-readme-stats"/>
