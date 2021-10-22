@@ -7,7 +7,7 @@
            💻 Desarrollador Jr FullStack JS 👨🏻‍💻
       </strong>
       <br />
-   Entré al mundo de los CMS donde joomla! en ese momento era el más popular, luego pasé a Drupal para finalizar con Wordpress pero el ambiente laboral me llevó al mundo de JavaScript donde poco a poco fui aprendiendo el desarrollo tanto de frontend como backend.
+   Entré al mundo de los CMS donde joomla! en ese momento era el más popular, luego pasé a Drupal para finalizar con Wordpress pero el ambiente laboral me llevó al mundo de JavaScript donde poco a poco fui aprendiendo el desarrollo tanto del lado del cliente como del servidor.
   </p>
    
 🌎 Acá el [portafolio](https://pablosolana.dev)
