@@ -1,6 +1,6 @@
 <p align="center">
    <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
-   <h2 align="center">¡Hola  👋! Soy Pablo Solana</h2>
+   <h2 align="center">¡Hola! 👋 Soy Pablo Solana</h2>
 </p>
    <p align="center">
       <strong>
