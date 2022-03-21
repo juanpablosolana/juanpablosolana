@@ -7,17 +7,26 @@
            💻 Full-stack JavaScript Engineer 👨🏻‍💻
       </strong>
       <br />
-     🔧 JavaScript is a tool.<br />
-      🔨 React is a tool.<br />
-      ⚒️ NextJS is a tool.<br />
-      🛠️ Gatsby is a tool.<br />
-      🏁 Concentrate on solving problems with the right tool, not on the tool itself
-    </p>
+   </p>
+   
+```javascript
+const Pablo = {
+  code: ['Javascript','HTML', 'CSS'], 
+  tools: ['React', 'Next', 'Node', 'Firebase', 'Mongo', 'Dialogflow','GCP', 'Embedded Systems'],
+  proyects: {
+                  pabloSolana: 'https://pablosolana.dev',
+                  cfdiAPI: 'https://cfdiapi.com',
+                  RickAndMorty: 'https://rickandmorty.pablosolana.dev/',
+                  huertogram: 'https://huertogram.com',
+             },
+}
+```
+   
+  
     
   🕸️ Here is the [portfolio](https://pablosolana.dev) <br>
    👷 And my [linkedin](https://www.linkedin.com/in/juan-pablo-solana-ortiz/)
  
-   
 
 ----
 
