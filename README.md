@@ -12,7 +12,7 @@
 ```javascript
 const Pablo = {
   code: ['Javascript','HTML', 'CSS'], 
-  tools: ['React', 'Next', 'Node', 'Firebase', 'Mongo', 'Dialogflow','GCP', 'Embedded Systems'],
+  tools: ['React', 'Next', 'Node', 'Firebase', 'Mongo', 'Tailwind','Vercel'],
   proyects: {
                   pabloSolana: 'https://pablosolana.dev',
                   cfdiAPI: 'https://cfdiapi.com',
