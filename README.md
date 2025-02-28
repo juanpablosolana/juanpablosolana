@@ -1,5 +1,4 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
    <h2 align="center">Hola! 👋 I'm Pablo Solana</h2>
 </p>
    <p align="center">
@@ -8,6 +7,7 @@
       </strong>
       <br />
    </p>
+    <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
    
 ```javascript
 const Pablo = {
